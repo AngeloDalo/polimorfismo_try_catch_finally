@@ -31,6 +31,7 @@ public class App {
             System.out.println("c'è stato un problema");
         }finally {
             System.out.println("eseguito comunque");
+            //scanner.close();
         }
     }
 }
